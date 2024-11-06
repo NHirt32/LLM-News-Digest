@@ -38,14 +38,12 @@ Install the required packages individually if they aren’t already installed:
 
 pip install requests python-dotenv openai matplotlib ipywidgets jupyter-ui-poll
 
-API Key Setup:
+**API Key Setup:**
 
-    Demo Version: For secure use, create a .env file in the project directory and add your API keys:
+    For secure use, create a .env file in the project directory and add your API keys:
 
         OPENAI_API_KEY=your_openai_key
         NEWS_API_KEY=your_news_api_key
-
-        Submission Version: The submitted version of this project includes API keys in plain text for accessibility during review.
 
     Run the Jupyter Notebook to explore and test the project features.
 
